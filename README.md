@@ -3,8 +3,7 @@
 
 <h3 align="center">
   Hello i'm Omar Sameh .
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+
 
 
 ### 🛠 &nbsp;Tech Stack
